@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloudy fight in France, between the Kings army, commanded by General Harcourt, the King of Scots, and the Duke of York; and the Prince of Conde's Forces, on Christmas Day last. With the manner how the said Duke led on the forlorn hope, fell upon the Princes forces, gave the first onset; and after a gallant charge, (seconded by his brother the King) routed them, and beat them out of their trenches. With the number killed and taken prisoners, most of their ordnance, armes, and ammunition, and two other armies entring the field, under the command of the King of Poland's son, and Prince Edward.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76870</idno>
+            <idno type="STC">Wing B3243</idno>
+            <idno type="STC">Thomason E651_21</idno>
+            <idno type="STC">ESTC R205864</idno>
+            <idno type="EEBO-CITATION">99865108</idno>
+            <idno type="PROQUEST">99865108</idno>
+            <idno type="VID">166027</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166027)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E651[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloudy fight in France, between the Kings army, commanded by General Harcourt, the King of Scots, and the Duke of York; and the Prince of Conde's Forces, on Christmas Day last. With the manner how the said Duke led on the forlorn hope, fell upon the Princes forces, gave the first onset; and after a gallant charge, (seconded by his brother the King) routed them, and beat them out of their trenches. With the number killed and taken prisoners, most of their ordnance, armes, and ammunition, and two other armies entring the field, under the command of the King of Poland's son, and Prince Edward.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Holden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651 [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: The second 1 in the imprint is crossed out and date altered to 1652; "Jan. 12.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166027:1" rendition="simple:additions"/>
+            <p>A BLOUDY FIGHT IN FRANCE, Between the Kings Army, commanded by General Harcourt, the King of Scots, and the Duke of <hi>York;</hi> and the Prince of <hi>Conde</hi>'s Forces, on <hi>Chriſtmas</hi> Day laſt.</p>
+            <p>With the manner how the ſaid Duke led on the Forlorn Hope, fell upon the Princes forces, gave the firſt Onſet; and after a gallant charge, (ſeconded by his Brother the King) routed them, and beat them out of their Trenches.</p>
+            <p>With the number killed and taken priſo<g ref="char:EOLhyphen"/>ners, moſt of their Ordnance, Armes, and Am<g ref="char:EOLhyphen"/>munition; and two other Armies entring the field, under the command of the King of <hi>Poland's</hi> Son, and Prince <hi>Edward.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>S. Holden,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166027:2"/>
+            <pb n="3" facs="tcp:166027:2"/>
+            <head>A bloudy Fight in France, between the Kings Army, commanded by Generall Harcourt, and the Prince of Conde's for<g ref="char:EOLhyphen"/>ces, on the firſt of this inſtant Jan. 1651.</head>
+            <p>ON the firſt of this inſtant <hi>January</hi> the Prince of <hi>Conde</hi> took the field againſt the Kings forces, where his Highneſſe charged himſelf in perſon with the forlorn Hope, doing gallant execution; the grounds and rea<g ref="char:EOLhyphen"/>ſons of his ſo ſudden and unexpected Engagement were as followeth: The Prince of <hi>Conde</hi> receiving intelligence, that the King had a conjunctional deſign againſt his Highneſſe, he im<g ref="char:EOLhyphen"/>mediatly reſolved to fight General Harcourt (who then lay within one league of his Rear) and accordingly advanced himſelf in per<g ref="char:EOLhyphen"/>ſon with his own Regiment, whoſe Colours reſembled the King of Scots at Worceſter, being green &amp; white; but differed in the Motto; for whereas the King gave a type, <hi>For Religion Crown and Kingdoms;</hi> ſo the Prince gave his Typification, <hi>To the Law and Testimony of the Go<g ref="char:EOLhyphen"/>ſpel.</hi> This proved an acceptable Sacrifice; for no ſooner had his High<g ref="char:EOLhyphen"/>neſſe appeared at the head of each Regiment, and after an excellent Speech, exhorting them to puiſſancie of ſpirit, for the fighting of the Lords battel, they unanimouſly reſolved to fight it out to the laſt man; and accordingly fell upon Gen. <hi>Harcourt</hi> (both Armies being in battel array) and after a ſharp diſpute, (which continued for the ſpace of three hours) routed the Kings forces, killed about 5000 up<g ref="char:EOLhyphen"/>on the place, took 3000 priſoners, 90 Colours, the Kings Standard, with his blew Ribbon, and the Holy Ghoſt, engravened in letters of Gold, as a Crucifix; together with all the Ordnance, Armes, and ammunition.</p>
+            <pb n="4" facs="tcp:166027:3"/>
+            <p>In this Action the Prince of <hi>Conde</hi> deported himſelf with moſt puiſſant valour and magnanimity of ſpirit; The D. of <hi>York</hi> charged againſt him in perſon, and commanded the forlorn Hope, moſt of them conſiſting of the Engliſh Ca<g ref="char:EOLhyphen"/>valry: His horſe was ſnot under him, but he himſelf recei<g ref="char:EOLhyphen"/>hed little hurt.</p>
+            <p>The Cardinals return into this Kingdom hath brought all things to the utmoſt extremity; and the increaſing of the Armies on both ſides, doth ſhew that they are reſolved to make an end by force, there being now no appearance of any reconciliation.</p>
+            <p>Monſieur <hi>de Chaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>caun uſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and Marſhal <hi>de Villeroy</hi> (though together with the Princes friends they have forwarded the return of the ſaid Cardinal on a deſign to unto him) being miſtruſted, have forſaken the Court. It is likely the quar<g ref="char:EOLhyphen"/>rel will not be ſuddenly appeaſed. I hear that the ſaid Car<g ref="char:EOLhyphen"/>dinal paſſed laſt <hi>Saturday</hi> from <hi>Sedan</hi> to <hi>Rhetel,</hi> and by Let<g ref="char:EOLhyphen"/>ters from <hi>Rheims</hi> we hear, that he came over the River of <hi>Marue</hi> on the 3. inſtant with 50. Horſe only about <hi>Eſpern<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> whilſt his forces were getting over at another place. It is very probable, that at this time he is not very far from the Court, though his adherents do give out that he is ſtill in <hi>Campayne.</hi> In the mean while we are informed, that a par<g ref="char:EOLhyphen"/>ty of the <hi>Loraines</hi> Forces, ſome <hi>Spaniſh</hi> Troops, and Monſi<g ref="char:EOLhyphen"/>eur <hi>le Princes</hi> Forces upon the Borders of <hi>Champagne,</hi> are to joyn together at <hi>Arley,</hi> intending to march in a Body into <hi>France,</hi> to the number of 8000. men, well commanded by Monſieur <hi>de Fauge, Dom Stephen de Gamarra,</hi> and by the Count <hi>de Tavannes.</hi>
+            </p>
+            <p>The Duke of <hi>Orleans</hi> Forces, and others ſent for out of <hi>Picardy,</hi> do commit very great violences upon their march, ſparing neither friends nor foes, as well about <hi>Paris</hi> as in the remoteſt places. The Horſe are gone towards the Ri<g ref="char:EOLhyphen"/>ver of <hi>Loire</hi> to ſeize on the paſſes: 15. or 1600 Muskets went from hence laſt <hi>Tueſday</hi> with abundance of Match and Bullet towards <hi>Eſtampes</hi> for the Foot, or for the Recruits
+<pb n="5" facs="tcp:166027:3"/>which are raiſing for the ſaid Dukes forces, which are very poor and naked for want of pay.</p>
+            <p>An Expreſs come from the Court ſaith, That there is no likelihood of any accomodation with the Prince, and that ſeveral honeſt men were leaving the Court, not being wil<g ref="char:EOLhyphen"/>ling to ſee the ſaid Cardinal.</p>
+            <p>Since the ſurprizal of Captain <hi>Green,</hi> we hear, That Cap. <hi>Smith</hi> hath met with ſome of the <hi>Hollanders,</hi> and hath mered the ſame meaſure to them again, giving no quarter. It is probable, this breach will grow wider and wider ſuddenly, for the Engliſh are reſolved to pay them in their own coyn, and not to ſell mens lives for gain.</p>
+            <p>We hear that Captain <hi>Peacock</hi> hath taken a <hi>French</hi> prize but not without loſs; for ſhe diſputed it to the laſt man.</p>
+            <p>There hath been lately a proclamation printed at <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> and diſpierſed up and down the City, full of inve<g ref="char:EOLhyphen"/>ctives againſt the parliament of <hi>England,</hi> calling them <hi>Re<g ref="char:EOLhyphen"/>bels, Traytors,</hi> and <hi>Bloudſuckers;</hi> but herein they hit them<g ref="char:EOLhyphen"/>ſelves a notable box upon the year.</p>
+            <p>There is greparation for ſhipping in all parts of <hi>Holland;</hi> a Fleet of one hundred ſayl is intended.</p>
+            <p>From <hi>Conſtantinople</hi> they write, That the Emperour of <hi>Turkey</hi> hath poſitively declared againſt all the Kings, Princes, States, and Com<g ref="char:EOLhyphen"/>mon-wealths in Chriſtendom, and hath impriſoned about 4000 Chriſtians; amongſt the reſt, many eminent Gentlemen: ſome where<g ref="char:EOLhyphen"/>of, are men of quality, belonging to the Engliſh Nation; who were Agents and Factors at <hi>Skaro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, Smirna,</hi> and other places; yet notwith<g ref="char:EOLhyphen"/>ſtanding the Janiſaries are not a little obſtructive to his proceed<g ref="char:EOLhyphen"/>ings; which in time may cauſe a glorious Sun-ſhine of the Goſpel, over thoſe dark <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heiſtical</hi> and <hi>Mahometan Corners;</hi> But as ancient <hi>Pithogoras</hi> ſaid, That he was aſſured the Ayr was full of Spirits; ſo am I confident (as yet) that <hi>Turkey</hi> is full of Devils.</p>
+            <p>But the Venetians are preparing a great Summer Fleet, to go out againſt the <hi>Turks,</hi> under the command of the Lord High Admiral <hi>Foſcolo,</hi> who hath already took 4 ſtately <hi>Gallies;</hi> and hath made him<g ref="char:EOLhyphen"/>ſelf Maſtes of the ſtrong Caſtle of <hi>Nedren,</hi> wherein he found 30 braſſe pieces, 500 bar<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ls of powder, and great ſtore of Ammunition. The <hi>Emperor</hi> of <hi>Germany</hi> is likewiſe raiſing 40000 men. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Turkes Deſign againſt Chriſtendom.</p>
+            <pb n="6" facs="tcp:166027:4"/>
+            <p>Cardinal <hi>Mazarine</hi> hath entred that Kingdom with 7000 horſe and foot, to aſſiſt his Soveraign Lord the King, againſt the Prince of <hi>Conde.</hi> The Duke of <hi>Orleans</hi> hath declared againſt his invaſion; but the Duke of <hi>Elbeuf</hi> doth declare himſelf for the Cardinal, and ſo doth all the new Cardinals in <hi>Picardy</hi> and <hi>Champane.</hi> The Prince en<g ref="char:EOLhyphen"/>deavours very much to win his Enemies by fair means: His gallant and civil Order or Diſcipline in the Army, takes great Influence up<g ref="char:EOLhyphen"/>on the hearts of the people; and many excellent Preſidents are ex<g ref="char:EOLhyphen"/>tant touching the glorious ſucceſs of all thoſe who fight under the Banner of Jerus Chriſt, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Sennacherib</hi> (the King of <hi>Aſſyrians</hi>) invading <hi>Judea</hi> with a pow<g ref="char:EOLhyphen"/>erful Army, commanded it to be related by his Captains to <hi>Ezcchias</hi> the King, that in vain he repoſed his truſt in any <hi>Divine power;</hi> for ſeeing (ſaid he) the Gods of other Nations were not able to defend their Worſhippers againſt the puiſſance and might of the King of the <hi>Aſſyrians;</hi> therefore neither could the God of <hi>Iſrael.</hi> For which horrible blaſphemy God in one night deſtroyed almoſt his whole Army, there being 185000 armed men ſlain by an Angel. And the King himſelf after his return into <hi>Ninivie</hi> his City, ſacrificing to his gods (who could not defend him) was murthered by his own ſons.</p>
+            <p>
+               <hi>Nabuchodoneſor</hi> (King of <hi>Chaldea</hi>) when in his fury he caſt the h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee children into the fiery furnace, for that they refuſed to adore a <hi>Statua</hi> erected by him, and further blaſphemed againſt God, in preferring his own power before the power of God, in theſe words: <hi>Quis eſt Deus? Who is God that can take you out of my hands?</hi> Did immediatly af<g ref="char:EOLhyphen"/>ter acknowledge the contrary, and confeſſedia <hi>Deity,</hi> through the ſight of that ſtupendious miracle, by the which the children being in the midſt of the flames, remained unhurt and not burned. But after when he had forgot the ſame, and bear himſelf with his former cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ti<g ref="char:EOLhyphen"/>on and pride of mind, maintaining, that his power and glory ſtood obnoxious or ſubject to none, he was ſuddenly puniſhed by God; a voyce from Heaven ruſhing upon him, and ſpeaking thus: <hi>Tibi dici<g ref="char:EOLhyphen"/>tur</hi> Nabuchodonoſor <hi>Rex,</hi> &amp;c. <hi>O King</hi> Nabuchodonoſor, <hi>to thee be it ſpoken: thy Kingdom ſhall depart from thee. And they ſhall drive thee from men, and thy dwelling ſhall be with the Beaſts of the field; They ſhall make thee to eat graſs as the Oxen; and ſeven times ſhall paſſe over thee, till thou knoweſt, that the most high beareth rule over the Sons of men, and giveth it to whomſoever, he will.</hi> Which voice being ended, he was preſently deprived of reaſon and grew mad. Whereupon being driven from all mens ſociety, he begun to live in the Woods among Beaſts, and during ſeven yeares lived after the manner of beaſts. Which period
+<pb n="7" facs="tcp:166027:4"/>of time being ended, he was reſtored to his wits and ſenſes, and pre<g ref="char:EOLhyphen"/>ently thereupon moſt excellently confeſſed a divine power. That this was to happen unto him, God foreſhewed it a year before in a viſion which he had, while he dreamed; which viſion <hi>Daniel</hi> did in<g ref="char:EOLhyphen"/>terpret.</p>
+            <p>
+               <hi>Agrippa</hi> the elder being in <hi>Ceſaraea,</hi> and cloathed with ſumptuous apparel, and ſitting in a high and regal ſeat, began to make a ſpeech to the people; but ſome of his people cryed out, that it was the voice of ſome God, and not of man; which words being grateful un<g ref="char:EOLhyphen"/>to him, (who could be willing to aſſume divine honour to himſelf) he was ſuddenly ſtrucken with an Angel, and ſo his fleſh and bowels putrifying, he was conſumed with lice.</p>
+            <p>The <hi>Syrians</hi> being overcome in War by the <hi>Iſraelites</hi> in certain mountainous places, aſcribed their overthrow to the Gods of the Mountains, who (they ſaid) did favour the <hi>Iſraelite;</hi> therefore they would fight with the <hi>Iſraelites</hi> in the vallies, where they thought the God of <hi>Iſrael</hi> was not intereſſed; upon which cauſe, God by his Prophet thus ſpake to the King of <hi>Iſrael; Quia dixerunt Syri, &amp;c. Be<g ref="char:EOLhyphen"/>cauſe the Syrians ſaid, the Lord is God of the Mountains, and not of the va<g ref="char:EOLhyphen"/>lies, I will give all this great multitude in to thy hand, and you ſhall now, that I am the Lord.</hi> And thereupon both their Armies joyning battel after, the Iſraelites (though but few in number) killed in one day a hundred thouſand footmen: And there remained in a neer place twenty ſeven thouſand Syrians, who flying into the City, were kil<g ref="char:EOLhyphen"/>led with the fall of the City walls: doubtleſly this was a manifeſt revenge and puniſhment of the former blaſphemy.</p>
+            <p>
+               <hi>Nicanor</hi> being leader of the Army of <hi>Demetrius</hi> the King, and in<g ref="char:EOLhyphen"/>tending to invade the Jews upon the Sabboth, was admoniſhed that in honour and reverence to God (who fecth all things) he ſhould forbear that facred day: to the which adviſe he thus anſwered: <hi>Eſtnepotens quiſpiam in caelo &amp;c. Is there a Lord in heaven, that commands the Sabbath day to be kept? to whom when it was anſwered, Eſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>minus vivus &amp;c. There is a living Lord, which ruleth in Heaven, who command<g ref="char:EOLhyphen"/>eth the ſeaventh day to be kept: he replyed; Et egopotens &amp;c. And I am mighty upon Earth to command them, for to arm themſelves, and to perform the Kings buſineſs.</hi> Upon which occaſion the day of War being begun, though <hi>Nicanor</hi> had a moſt powerful Army, furniſhed with all kind of Munition and Armour; yet was he overthrown by a very few, with the loſs of 35000 men. His blaſphemous tongue was likewiſe cut off, and by ſmall pceces caſt unto Birds; and his hands which he lifted up againſt the Temple, were ſet up in an oppoſite place to the Temple.</p>
+            <pb n="8" facs="tcp:166027:5"/>
+            <p>At what time <hi>Achior</hi> commended the power of the God of heaven, and averred, that the Jewes were ſecure and ſafe, in that they wor<g ref="char:EOLhyphen"/>ſhipped God religiouſly, at which words <hi>Holofernes</hi> in great indig<g ref="char:EOLhyphen"/>nation thus anſwered. <hi>Quoniam prophetasti,</hi> &amp;c. <hi>Becauſe thou haſt pro<g ref="char:EOLhyphen"/>phecyed among us to day, that the people of Iſrael is defended by their God, I will ſhew thee, that there is no other God, but</hi> Nabuchodonoſor, <hi>&amp;c.</hi> For which blaſphemy he payed dear, forth is own head was cut off by the hand of a Woman, and his Army being driven to flight, a great part therof was put to the ſword by the Jewes.</p>
+            <p>
+               <hi>Antiochus</hi> for his pride and blaſphemy, was ſtrucken from God with an inviſible and incurable diſeaſe; for firſt, ſuddenly a violent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain of his Bowels invaded him; and then quickly after he fell out of his chariot, wounding himſelf dangerouſly: laſtly his body pu<g ref="char:EOLhyphen"/>rifying with a filthy conſumption, and breathing out a moſt loath<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om ſmell, was conſumed alive with worms.</p>
+            <p>
+               <hi>Balthazar</hi> (King of the <hi>Chaldeans</hi>) when he commanded the holy Veſſels to be brought to him (which were taken out of the Temple of the Lord at <hi>Jeruſalem</hi>) and did drink in them with his Noble men, and his Concubines; for ſuch his profaning of them did preſently fool Gods juſt revenge; for in the middeſt of the banquet and jollity with his gueſts, it is ſaid, <hi>Apparuerunt digiti,</hi> &amp;c. <hi>There appeared fingers of a mans hand, which wrot over the candleſtick upon the plaſter of the wall of the Kings palace.</hi> And this appeared in the fight of all men, and with great conſternation of mind and fear to the King himſelf.</p>
+            <p>The King of <hi>Portugals</hi> eldeſt ſon is advancing with his Army a<g ref="char:EOLhyphen"/>gainſt the <hi>Spaniard,</hi> for the relief of the <hi>French</hi> in <hi>Barcellonia.</hi>
+            </p>
+            <p>The King of <hi>France</hi> hath ſent Prince <hi>Edward</hi> (ſon to the Queen of <hi>Bohemia</hi>) to make oppoſition againſt the Prince of <hi>Conde:</hi> the King of <hi>Scots,</hi> and the Duke of <hi>York</hi> are deſigned for the field; the firſt as Lieut. Gen. of the Horſe: the ſecond, as Major General. And its ſaid that they are already advanced again the Prince of <hi>Turence,</hi> and hath fallen upon his forces, and after a ſharp diſpute, beas them out of their Trenches.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
